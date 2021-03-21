@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(36, 34, 41);
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: orange;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(216, 133, 112);
+}
+
+p {
+    color: rgb(251, 255, 1);
+    font-size: 20px;
+}   
+
+#n1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+#n2 {
+    font-family: 'Syne Mono', monospace;
+}
+
+#n3 {
+    font-family: 'Chango', display;
+}
+
+#n4 {
+    font-family: 'Roboto Slab', serif;
+}
+
+#n5 {
+    font-family: 'Pangolin', handwriting;
+}
+
+#ea {
+    color: rgb(36, 34, 41);
+}
+
+p#ea:hover {
+    color: rgb(236, 255, 192);
+}
